@@ -1,0 +1,36 @@
+header{
+    width: 100vw;
+    height: 60px;
+    overflow: hidden;
+    border-bottom: solid 1px #979696;
+    position: fixed;
+    top: 0;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(190, 221, 249);
+}
+
+header img{
+    width: 140px;
+}
+
+h1{
+    margin-top: 70px;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(190, 221, 249);
+}
+
+iframe{
+    margin-left: 30%;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 20px;
+}
